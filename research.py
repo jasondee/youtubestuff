@@ -3,7 +3,7 @@ import os
 from googleapiclient.discovery import build
 
 # Set your YouTube Data API key
-API_KEY = "AIzaSyBWm-TkHLNptHGcYS0zSTbbhEscfCP10qk"
+API_KEY = "REPLACE_ME!!!"
 
 def search_videos_by_keywords():
     # Create a YouTube API client
